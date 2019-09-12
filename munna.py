@@ -22,5 +22,6 @@ while True:
             break
     else:
         sorry()
+        print("finish")
 
         
